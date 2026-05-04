@@ -13,7 +13,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, InputMedia
 from aiogram.client.default import DefaultBotProperties
 
 # --- НАСТРОЙКИ ---
-API_TOKEN = '8577327030:AAGzwot1PVY-rhSJ4qgjwq6RhC0njinS_Fs'
+API_TOKEN = '8577327030:AAGfCU-X43zq01BcsQG5P8h3c-WAj8Ywbk'
 ADMIN_ID = 8623822141  # ТВОЙ ID
 CHANNEL_ID = -1003940752977  # ID КАНАЛА
 CHANNEL_URL = "https://t.me/AvocenteVPN"
